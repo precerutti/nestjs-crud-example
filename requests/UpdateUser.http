@@ -1,0 +1,7 @@
+PATCH http://localhost:3000/users/7
+
+content-type: application/json
+
+{
+    "name": "Paulo",
+}
